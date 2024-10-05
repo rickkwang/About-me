@@ -6,10 +6,6 @@
 - 😄 Pronouns: he/his/him
 - ⚡ Fun fact: Nothing fun to describe me
 
-
-I'm very happy to make more friends who have same habits and hobbies, if you want to know me just contact me!
-
-
 <!---
 rickkwang/rickkwang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
