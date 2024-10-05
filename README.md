@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @rickkwang
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m Myrick Wang
+- 👀 I’m interested in coffee,travel and music
+- 🌱 I’m currently learning Electrical Electronic Engnieering
+- 💞️ I’m looking to collaborate on Some hardcore projects
+- 📫 How to reach me myrickwan9@gmail.com
+- 😄 Pronouns: he/his/him
+- ⚡ Fun fact: Nothing fun to describe me
+
+
+I'm very happy to make more friends who have same habits and hobbies, if you want to know me just contact me!
+
 
 <!---
 rickkwang/rickkwang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
